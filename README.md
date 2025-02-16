@@ -54,8 +54,8 @@
 
 ## 📊 **GitHub Stats & Activity**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakirhossaib736&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakirhossaib736&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakirhasan736&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zakirhasan736&layout=compact&theme=radical)  
 
 ---
 
