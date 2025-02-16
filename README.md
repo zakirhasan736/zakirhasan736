@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm [Your Name]  
+# 🚀 Hi, I'm Zakir Hosen.  
 ### Full Stack Developer | AI-Powered E-Commerce Specialist | Mobile App Developer  
 
 💡 I specialize in **AI-driven e-commerce solutions, microservices architecture, and full-stack web/mobile app development.**  
