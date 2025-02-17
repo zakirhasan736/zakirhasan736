@@ -71,18 +71,7 @@
 - **App Store & Google Play Deployment** 📱  
 
 ## 🚀 Backend & DevOps:
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![JSON API](https://img.shields.io/badge/JSON%20API-000000?style=for-the-badge&logo=json&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) 
-![OAuth](https://img.shields.io/badge/OAuth-3C3C3D?style=for-the-badge&logo=oauth&logoColor=white) 
-![Social Logins](https://img.shields.io/badge/Social%20Login-1877F2?style=for-the-badge&logo=facebook&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![VPS Hosting](https://img.shields.io/badge/VPS%20Hosting-FF6600?style=for-the-badge&logo=server&logoColor=white) 
-![GitHub CI/CD](https://img.shields.io/badge/GitHub%20CI/CD-181717?style=for-the-badge&logo=github&logoColor=white) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![JSON API](https://img.shields.io/badge/JSON%20API-000000?style=for-the-badge&logo=json&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-3C3C3D?style=for-the-badge&logo=oauth&logoColor=white) ![Social Logins](https://img.shields.io/badge/Social%20Login-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![Stripe Connect](https://img.shields.io/badge/Stripe%20Connect-008CDD?style=for-the-badge&logo=stripe&logoColor=white) ![Stripe Subscription](https://img.shields.io/badge/Stripe%20Subscription-008CDD?style=for-the-badge&logo=stripe&logoColor=white) ![ShipStation](https://img.shields.io/badge/ShipStation-1A82E2?style=for-the-badge&logo=shipstation&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![VPS Hosting](https://img.shields.io/badge/VPS%20Hosting-FF6600?style=for-the-badge&logo=server&logoColor=white) ![GitHub CI/CD](https://img.shields.io/badge/GitHub%20CI/CD-181717?style=for-the-badge&logo=github&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Realtime Chat](https://img.shields.io/badge/Realtime%20Chat-0088CC?style=for-the-badge&logo=webrtc&logoColor=white)
 
 **Database & APIs:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
