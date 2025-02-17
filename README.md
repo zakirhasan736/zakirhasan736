@@ -33,7 +33,7 @@
 
 ## ⚙️ **Tech Stack & Tools**  
 
-**Frontend:**  
+## 🚀 Frontend Development  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -50,8 +50,16 @@
 ![CSS Grid](https://img.shields.io/badge/CSS%20Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
+ 
+## 📱 Mobile App Development  
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
+![Gluestack](https://img.shields.io/badge/Gluestack-007FFF?style=for-the-badge&logoColor=white)  
+![NativeWind](https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![Tailwind CSS for Mobile](https://img
 
-**Backend & DevOps:**  
+
+## 🚀 Backend & DevOps:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
 ![JSON API](https://img.shields.io/badge/JSON%20API-000000?style=for-the-badge&logo=json&logoColor=white) 
