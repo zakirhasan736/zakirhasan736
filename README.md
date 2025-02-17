@@ -56,8 +56,25 @@
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
 ![Gluestack](https://img.shields.io/badge/Gluestack-007FFF?style=for-the-badge&logoColor=white)  
 ![NativeWind](https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![Tailwind CSS for Mobile](https://img
+![Tailwind CSS for Mobile](https://img.shields.io/badge/Tailwind%20Mobile-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![React Navigation](https://img.shields.io/badge/React%20Navigation-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Reanimated](https://img.shields.io/badge/Reanimated-FB8500?style=for-the-badge&logoColor=white)  
+![Google Play Store](https://img.shields.io/badge/Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)  
+![Apple App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)  
 
+### 🔥 Mobile-Specific Features:  
+- **Fast Development with Expo & Gluestack** 🚀  
+- **Optimized UI with TailwindCSS for Mobile & NativeWind** 🎨  
+- **Smooth Animations using Reanimated** 🏎️  
+- **Cross-Platform Navigation (React Navigation)** 📍  
+- **Push Notifications with Firebase Cloud Messaging (FCM)** 🔔  
+- **Secure Authentication (NextAuth, OAuth, Google, Apple Login)** 🔑  
+- **JWT Authentication & Session Management** 🔒  
+- **Secure Storage (AsyncStorage, SecureStore)** 🛡  
+- **Deep Linking & Universal Links** 🔗  
+- **Offline Support & Data Caching** 🔄  
+- **Location Tracking & Maps Integration (Google Maps, Mapbox)** 🗺  
+- **App Store & Google Play Deployment** 📱  
 
 ## 🚀 Backend & DevOps:
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
