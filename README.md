@@ -52,15 +52,8 @@
 
  
 ## 📱 Mobile App Development  
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
-![Gluestack](https://img.shields.io/badge/Gluestack-007FFF?style=for-the-badge&logoColor=white)  
-![NativeWind](https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![Tailwind CSS for Mobile](https://img.shields.io/badge/Tailwind%20Mobile-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![React Navigation](https://img.shields.io/badge/React%20Navigation-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Reanimated](https://img.shields.io/badge/Reanimated-FB8500?style=for-the-badge&logoColor=white)  
-![Google Play Store](https://img.shields.io/badge/Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)  
-![Apple App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)  
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![Gluestack](https://img.shields.io/badge/Gluestack-007FFF?style=for-the-badge&logoColor=white) ![NativeWind](https://img.shields.io/badge/NativeWind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Tailwind CSS for Mobile](https://img.shields.io/badge/Tailwind%20Mobile-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![React Navigation](https://img.shields.io/badge/React%20Navigation-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Reanimated](https://img.shields.io/badge/Reanimated-FB8500?style=for-the-badge&logoColor=white) ![Google Play Store](https://img.shields.io/badge/Google%20Play-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white) ![Apple App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white) ![Firebase Cloud Messaging (FCM)](https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=auth0&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-3D5AFE?style=for-the-badge&logo=oauth&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Secure Storage](https://img.shields.io/badge/Secure%20Storage-4A90E2?style=for-the-badge&logo=secure&logoColor=white) ![AsyncStorage](https://img.shields.io/badge/AsyncStorage-4A90E2?style=for-the-badge&logo=secure&logoColor=white) ![Deep Linking](https://img.shields.io/badge/Deep%20Linking-0052CC?style=for-the-badge&logo=linktree&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white) ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
+
 
 ### 🔥 Mobile-Specific Features:  
 - **Fast Development with Expo & Gluestack** 🚀  
