@@ -3,7 +3,7 @@
 
 💡 I specialize in **AI-driven e-commerce solutions, microservices architecture, and full-stack web/mobile app development.**  
 🛠️ Passionate about **Next.js, Express.js, AWS, Docker, DevOps, and scalable web platforms.**  
-
+My CV Heere: https://1drv.ms/w/c/0912a527b1d83789/EayA_TyXiGZIkgVhf6dWoW8BJf3ZuYhv0zr_aJ9ZGkiusg?e=PPXnas
 ---
 
 ## 🔥 **What I Do?**  
